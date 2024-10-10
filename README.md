@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hello folks! 👋
 
+Just a passionate developer trying to learn and build software products 🔭
 <!--
 **Jkrish1011/Jkrish1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
